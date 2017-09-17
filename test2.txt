@@ -1,0 +1,12 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is 403A-7D2C
+
+ Directory of G:\Selenium\drivers\Git\MyProject
+
+09/17/2017  05:35 PM    <DIR>          .
+09/17/2017  05:35 PM    <DIR>          ..
+09/17/2017  01:28 PM                22 index.html
+09/17/2017  01:28 PM                 8 test1.txt
+09/17/2017  05:35 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  43,310,804,992 bytes free
